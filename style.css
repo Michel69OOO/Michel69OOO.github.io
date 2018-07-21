@@ -2,6 +2,7 @@
 
 body{
 	background: url(bgcolor.jpg	);
+	background-attachment: fixed;
 	font-family: 'Roboto', sans-serif;
 	font-size: 10px;
 
